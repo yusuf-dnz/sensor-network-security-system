@@ -3,9 +3,9 @@
 #include <nRF24L01.h>
 #include <RF24.h>
                                        //BLYNK bulut servisi için gerekli token.
-#define BLYNK_TEMPLATE_ID "TMPLZxT7Gr45"
+#define BLYNK_TEMPLATE_ID "ID"
 #define BLYNK_DEVICE_NAME "ESP"
-#define BLYNK_AUTH_TOKEN "nluOi-OuIvyntrRfTiLHwmiCwl6PeEHB"
+#define BLYNK_AUTH_TOKEN "Your Token"
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
